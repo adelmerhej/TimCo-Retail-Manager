@@ -1,0 +1,1168 @@
+﻿<XtraSerializer version="1.0" application="AccordionControl">
+  <property name="#LayoutVersion" />
+  <property name="ItemHeight">0</property>
+  <property name="GroupHeight">0</property>
+  <property name="ExpandElementMode">SingleItem</property>
+  <property name="AnimationType">Default</property>
+  <property name="Elements" iskey="true" value="5">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="#LayoutVersion" />
+      <property name="Style">Group</property>
+      <property name="ControlFooterAlignment">Near</property>
+      <property name="VisibleInFooter">true</property>
+      <property name="HeaderIndent">-1</property>
+      <property name="HeaderVisible">true</property>
+      <property name="Expanded">true</property>
+      <property name="Visible">true</property>
+      <property name="Text">Transactions</property>
+      <property name="Name">navigationMenu</property>
+      <property name="Height">0</property>
+      <property name="HeaderTemplate" iskey="true" value="4">
+        <property name="Item1" isnull="true" iskey="true" />
+        <property name="Item2" isnull="true" iskey="true" />
+        <property name="Item3" isnull="true" iskey="true" />
+        <property name="Item4" isnull="true" iskey="true" />
+      </property>
+      <property name="Elements" iskey="true" value="2">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="#LayoutVersion" />
+          <property name="Style">Group</property>
+          <property name="ControlFooterAlignment">Near</property>
+          <property name="VisibleInFooter">true</property>
+          <property name="HeaderIndent">-1</property>
+          <property name="HeaderVisible">true</property>
+          <property name="Expanded">true</property>
+          <property name="Visible">true</property>
+          <property name="Text">Dashboard</property>
+          <property name="Name">mnuDashboard</property>
+          <property name="Height">0</property>
+          <property name="HeaderTemplate" iskey="true" value="4">
+            <property name="Item1" isnull="true" iskey="true" />
+            <property name="Item2" isnull="true" iskey="true" />
+            <property name="Item3" isnull="true" iskey="true" />
+            <property name="Item4" isnull="true" iskey="true" />
+          </property>
+          <property name="Elements" iskey="true" value="1">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="Style">Item</property>
+              <property name="ControlFooterAlignment">Near</property>
+              <property name="VisibleInFooter">true</property>
+              <property name="HeaderIndent">-1</property>
+              <property name="HeaderVisible">true</property>
+              <property name="Expanded">false</property>
+              <property name="Visible">true</property>
+              <property name="Text">Events</property>
+              <property name="Name">mnuEvents</property>
+              <property name="Height">0</property>
+              <property name="HeaderTemplate" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true" />
+                <property name="Item2" isnull="true" iskey="true" />
+                <property name="Item3" isnull="true" iskey="true" />
+                <property name="Item4" isnull="true" iskey="true" />
+              </property>
+              <property name="Elements" iskey="true" value="0" />
+            </property>
+          </property>
+        </property>
+        <property name="Item2" isnull="true" iskey="true">
+          <property name="#LayoutVersion" />
+          <property name="Style">Group</property>
+          <property name="ControlFooterAlignment">Near</property>
+          <property name="VisibleInFooter">true</property>
+          <property name="HeaderIndent">-1</property>
+          <property name="HeaderVisible">true</property>
+          <property name="Expanded">true</property>
+          <property name="Visible">true</property>
+          <property name="Text">Transactions</property>
+          <property name="Name">mnuTransactions</property>
+          <property name="Height">0</property>
+          <property name="HeaderTemplate" iskey="true" value="4">
+            <property name="Item1" isnull="true" iskey="true" />
+            <property name="Item2" isnull="true" iskey="true" />
+            <property name="Item3" isnull="true" iskey="true" />
+            <property name="Item4" isnull="true" iskey="true" />
+          </property>
+          <property name="Elements" iskey="true" value="2">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="Style">Group</property>
+              <property name="ControlFooterAlignment">Near</property>
+              <property name="VisibleInFooter">true</property>
+              <property name="HeaderIndent">-1</property>
+              <property name="HeaderVisible">true</property>
+              <property name="Expanded">true</property>
+              <property name="Visible">true</property>
+              <property name="Text">Members</property>
+              <property name="Name">mnuMembers</property>
+              <property name="Height">0</property>
+              <property name="HeaderTemplate" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true" />
+                <property name="Item2" isnull="true" iskey="true" />
+                <property name="Item3" isnull="true" iskey="true" />
+                <property name="Item4" isnull="true" iskey="true" />
+              </property>
+              <property name="Elements" iskey="true" value="3">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Organizations</property>
+                  <property name="Name">mnuOrganizations</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Individuals</property>
+                  <property name="Name">mnuIndividuals</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item3" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Patients </property>
+                  <property name="Name">mnuPatientsList</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+              </property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="Style">Group</property>
+              <property name="ControlFooterAlignment">Near</property>
+              <property name="VisibleInFooter">true</property>
+              <property name="HeaderIndent">-1</property>
+              <property name="HeaderVisible">true</property>
+              <property name="Expanded">true</property>
+              <property name="Visible">true</property>
+              <property name="Text">Stock</property>
+              <property name="Name">mnuStocks</property>
+              <property name="Height">0</property>
+              <property name="HeaderTemplate" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true" />
+                <property name="Item2" isnull="true" iskey="true" />
+                <property name="Item3" isnull="true" iskey="true" />
+                <property name="Item4" isnull="true" iskey="true" />
+              </property>
+              <property name="Elements" iskey="true" value="3">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Medicines</property>
+                  <property name="Name">mnuMedicines</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Products</property>
+                  <property name="Name">mnuProducts</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item3" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Stock</property>
+                  <property name="Name">mnuStock</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+              </property>
+            </property>
+          </property>
+        </property>
+      </property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="#LayoutVersion" />
+      <property name="Style">Group</property>
+      <property name="ControlFooterAlignment">Near</property>
+      <property name="VisibleInFooter">true</property>
+      <property name="HeaderIndent">-1</property>
+      <property name="HeaderVisible">true</property>
+      <property name="Expanded">true</property>
+      <property name="Visible">true</property>
+      <property name="Text">Administration</property>
+      <property name="Name">mnuAdministration</property>
+      <property name="Height">0</property>
+      <property name="HeaderTemplate" iskey="true" value="4">
+        <property name="Item1" isnull="true" iskey="true" />
+        <property name="Item2" isnull="true" iskey="true" />
+        <property name="Item3" isnull="true" iskey="true" />
+        <property name="Item4" isnull="true" iskey="true" />
+      </property>
+      <property name="Elements" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="#LayoutVersion" />
+          <property name="Style">Group</property>
+          <property name="ControlFooterAlignment">Near</property>
+          <property name="VisibleInFooter">true</property>
+          <property name="HeaderIndent">-1</property>
+          <property name="HeaderVisible">true</property>
+          <property name="Expanded">true</property>
+          <property name="Visible">true</property>
+          <property name="Text">Administration</property>
+          <property name="Name">mnuAdministartion</property>
+          <property name="Height">0</property>
+          <property name="HeaderTemplate" iskey="true" value="4">
+            <property name="Item1" isnull="true" iskey="true" />
+            <property name="Item2" isnull="true" iskey="true" />
+            <property name="Item3" isnull="true" iskey="true" />
+            <property name="Item4" isnull="true" iskey="true" />
+          </property>
+          <property name="Elements" iskey="true" value="2">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="Style">Group</property>
+              <property name="ControlFooterAlignment">Near</property>
+              <property name="VisibleInFooter">true</property>
+              <property name="HeaderIndent">-1</property>
+              <property name="HeaderVisible">true</property>
+              <property name="Expanded">true</property>
+              <property name="Visible">true</property>
+              <property name="Text">Countries</property>
+              <property name="Name">mnuCountries</property>
+              <property name="Height">0</property>
+              <property name="HeaderTemplate" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true" />
+                <property name="Item2" isnull="true" iskey="true" />
+                <property name="Item3" isnull="true" iskey="true" />
+                <property name="Item4" isnull="true" iskey="true" />
+              </property>
+              <property name="Elements" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Countries</property>
+                  <property name="Name">mnuCountrieslist</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Provinces</property>
+                  <property name="Name">mnuProvinces</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item3" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Districts</property>
+                  <property name="Name">mnuDistricts</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item4" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Cities</property>
+                  <property name="Name">mnuCities</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+              </property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="Style">Group</property>
+              <property name="ControlFooterAlignment">Near</property>
+              <property name="VisibleInFooter">true</property>
+              <property name="HeaderIndent">-1</property>
+              <property name="HeaderVisible">true</property>
+              <property name="Expanded">true</property>
+              <property name="Visible">true</property>
+              <property name="Text">Types</property>
+              <property name="Name">mnuTypes</property>
+              <property name="Height">0</property>
+              <property name="HeaderTemplate" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true" />
+                <property name="Item2" isnull="true" iskey="true" />
+                <property name="Item3" isnull="true" iskey="true" />
+                <property name="Item4" isnull="true" iskey="true" />
+              </property>
+              <property name="Elements" iskey="true" value="9">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">WareHouses</property>
+                  <property name="Name">mnuWarehouses</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Product Types</property>
+                  <property name="Name">mnuProductTypes</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item3" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Diagnosis Types</property>
+                  <property name="Name">mnuDiagnosisTypes</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item4" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="VisibleInFooter">true</property>
+                  <property name="Visible">true</property>
+                  <property name="Name">accordionControlSeparator1</property>
+                  <property name="Height">0</property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item5" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Member Types</property>
+                  <property name="Name">mnuMemberType</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item6" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="VisibleInFooter">true</property>
+                  <property name="Visible">true</property>
+                  <property name="Name">accordionControlSeparator2</property>
+                  <property name="Height">0</property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item7" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Title</property>
+                  <property name="Name">mnuTitleList</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item8" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Professions</property>
+                  <property name="Name">mnuProfessions</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item9" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Education Level</property>
+                  <property name="Name">mnuEducationLevel</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+              </property>
+            </property>
+          </property>
+        </property>
+      </property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="#LayoutVersion" />
+      <property name="Style">Group</property>
+      <property name="ControlFooterAlignment">Near</property>
+      <property name="VisibleInFooter">true</property>
+      <property name="HeaderIndent">-1</property>
+      <property name="HeaderVisible">true</property>
+      <property name="Expanded">true</property>
+      <property name="Visible">true</property>
+      <property name="Text">Accounting</property>
+      <property name="Name">mnuMainAccounting</property>
+      <property name="Height">0</property>
+      <property name="HeaderTemplate" iskey="true" value="4">
+        <property name="Item1" isnull="true" iskey="true" />
+        <property name="Item2" isnull="true" iskey="true" />
+        <property name="Item3" isnull="true" iskey="true" />
+        <property name="Item4" isnull="true" iskey="true" />
+      </property>
+      <property name="Elements" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="#LayoutVersion" />
+          <property name="Style">Group</property>
+          <property name="ControlFooterAlignment">Near</property>
+          <property name="VisibleInFooter">true</property>
+          <property name="HeaderIndent">-1</property>
+          <property name="HeaderVisible">true</property>
+          <property name="Expanded">true</property>
+          <property name="Visible">true</property>
+          <property name="Text">Accounting</property>
+          <property name="Name">mnuAccounting</property>
+          <property name="Height">0</property>
+          <property name="HeaderTemplate" iskey="true" value="4">
+            <property name="Item1" isnull="true" iskey="true" />
+            <property name="Item2" isnull="true" iskey="true" />
+            <property name="Item3" isnull="true" iskey="true" />
+            <property name="Item4" isnull="true" iskey="true" />
+          </property>
+          <property name="Elements" iskey="true" value="7">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="Style">Group</property>
+              <property name="ControlFooterAlignment">Near</property>
+              <property name="VisibleInFooter">true</property>
+              <property name="HeaderIndent">-1</property>
+              <property name="HeaderVisible">true</property>
+              <property name="Expanded">true</property>
+              <property name="Visible">true</property>
+              <property name="Text">Setup</property>
+              <property name="Name">mnuAccountingSetup</property>
+              <property name="Height">0</property>
+              <property name="HeaderTemplate" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true" />
+                <property name="Item2" isnull="true" iskey="true" />
+                <property name="Item3" isnull="true" iskey="true" />
+                <property name="Item4" isnull="true" iskey="true" />
+              </property>
+              <property name="Elements" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Calendar Years</property>
+                  <property name="Name">mnuCalendarYears</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">JvTypes</property>
+                  <property name="Name">mnuJvType</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item3" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Jv Types Serials</property>
+                  <property name="Name">accordionControlElement1</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item4" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Payment Types</property>
+                  <property name="Name">mnuPaymentTypes</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+              </property>
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="Style">Group</property>
+              <property name="ControlFooterAlignment">Near</property>
+              <property name="VisibleInFooter">true</property>
+              <property name="HeaderIndent">-1</property>
+              <property name="HeaderVisible">true</property>
+              <property name="Expanded">true</property>
+              <property name="Visible">true</property>
+              <property name="Text">Currencies</property>
+              <property name="Name">mnuCurrencies</property>
+              <property name="Height">0</property>
+              <property name="HeaderTemplate" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true" />
+                <property name="Item2" isnull="true" iskey="true" />
+                <property name="Item3" isnull="true" iskey="true" />
+                <property name="Item4" isnull="true" iskey="true" />
+              </property>
+              <property name="Elements" iskey="true" value="2">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Currencies</property>
+                  <property name="Name">mnuCurrenciesList</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Exchange</property>
+                  <property name="Name">mnuExchange</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+              </property>
+            </property>
+            <property name="Item3" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="Style">Group</property>
+              <property name="ControlFooterAlignment">Near</property>
+              <property name="VisibleInFooter">true</property>
+              <property name="HeaderIndent">-1</property>
+              <property name="HeaderVisible">true</property>
+              <property name="Expanded">true</property>
+              <property name="Visible">true</property>
+              <property name="Text">Charts</property>
+              <property name="Name">mnuChartOfAccounts</property>
+              <property name="Height">0</property>
+              <property name="HeaderTemplate" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true" />
+                <property name="Item2" isnull="true" iskey="true" />
+                <property name="Item3" isnull="true" iskey="true" />
+                <property name="Item4" isnull="true" iskey="true" />
+              </property>
+              <property name="Elements" iskey="true" value="2">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Chart of Account</property>
+                  <property name="Name">mnuCharts</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Banks</property>
+                  <property name="Name">mnuBank</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+              </property>
+            </property>
+            <property name="Item4" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="VisibleInFooter">true</property>
+              <property name="Visible">true</property>
+              <property name="Name">accordionControlSeparator8</property>
+              <property name="Height">0</property>
+              <property name="Elements" iskey="true" value="0" />
+            </property>
+            <property name="Item5" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="Style">Group</property>
+              <property name="ControlFooterAlignment">Near</property>
+              <property name="VisibleInFooter">true</property>
+              <property name="HeaderIndent">-1</property>
+              <property name="HeaderVisible">true</property>
+              <property name="Expanded">true</property>
+              <property name="Visible">true</property>
+              <property name="Text">Transactions</property>
+              <property name="Name">mnuTrans</property>
+              <property name="Height">0</property>
+              <property name="HeaderTemplate" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true" />
+                <property name="Item2" isnull="true" iskey="true" />
+                <property name="Item3" isnull="true" iskey="true" />
+                <property name="Item4" isnull="true" iskey="true" />
+              </property>
+              <property name="Elements" iskey="true" value="2">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">true</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Journal Vouchers</property>
+                  <property name="Name">mnuJournal</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">true</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Donations</property>
+                  <property name="Name">mnuDonations</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+              </property>
+            </property>
+            <property name="Item6" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="VisibleInFooter">true</property>
+              <property name="Visible">true</property>
+              <property name="Name">accordionControlSeparator5</property>
+              <property name="Height">0</property>
+              <property name="Elements" iskey="true" value="0" />
+            </property>
+            <property name="Item7" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="Style">Group</property>
+              <property name="ControlFooterAlignment">Near</property>
+              <property name="VisibleInFooter">true</property>
+              <property name="HeaderIndent">-1</property>
+              <property name="HeaderVisible">true</property>
+              <property name="Expanded">true</property>
+              <property name="Visible">true</property>
+              <property name="Text">Reports</property>
+              <property name="Name">mnuReports</property>
+              <property name="Height">0</property>
+              <property name="HeaderTemplate" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true" />
+                <property name="Item2" isnull="true" iskey="true" />
+                <property name="Item3" isnull="true" iskey="true" />
+                <property name="Item4" isnull="true" iskey="true" />
+              </property>
+              <property name="Elements" iskey="true" value="2">
+                <property name="Item1" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Statement of Account</property>
+                  <property name="Name">mnuStatementofAccount</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+                <property name="Item2" isnull="true" iskey="true">
+                  <property name="#LayoutVersion" />
+                  <property name="Style">Item</property>
+                  <property name="ControlFooterAlignment">Near</property>
+                  <property name="VisibleInFooter">true</property>
+                  <property name="HeaderIndent">-1</property>
+                  <property name="HeaderVisible">true</property>
+                  <property name="Expanded">false</property>
+                  <property name="Visible">true</property>
+                  <property name="Text">Trial Balance</property>
+                  <property name="Name">mnuTrialBalance</property>
+                  <property name="Height">0</property>
+                  <property name="HeaderTemplate" iskey="true" value="4">
+                    <property name="Item1" isnull="true" iskey="true" />
+                    <property name="Item2" isnull="true" iskey="true" />
+                    <property name="Item3" isnull="true" iskey="true" />
+                    <property name="Item4" isnull="true" iskey="true" />
+                  </property>
+                  <property name="Elements" iskey="true" value="0" />
+                </property>
+              </property>
+            </property>
+          </property>
+        </property>
+      </property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="#LayoutVersion" />
+      <property name="Style">Group</property>
+      <property name="ControlFooterAlignment">Near</property>
+      <property name="VisibleInFooter">true</property>
+      <property name="HeaderIndent">-1</property>
+      <property name="HeaderVisible">true</property>
+      <property name="Expanded">true</property>
+      <property name="Visible">true</property>
+      <property name="Text">Activities</property>
+      <property name="Name">mnuActivities</property>
+      <property name="Height">0</property>
+      <property name="HeaderTemplate" iskey="true" value="4">
+        <property name="Item1" isnull="true" iskey="true" />
+        <property name="Item2" isnull="true" iskey="true" />
+        <property name="Item3" isnull="true" iskey="true" />
+        <property name="Item4" isnull="true" iskey="true" />
+      </property>
+      <property name="Elements" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="#LayoutVersion" />
+          <property name="Style">Group</property>
+          <property name="ControlFooterAlignment">Near</property>
+          <property name="VisibleInFooter">true</property>
+          <property name="HeaderIndent">-1</property>
+          <property name="HeaderVisible">true</property>
+          <property name="Expanded">true</property>
+          <property name="Visible">true</property>
+          <property name="Text">Activitties</property>
+          <property name="Name">mnuActs</property>
+          <property name="Height">0</property>
+          <property name="HeaderTemplate" iskey="true" value="4">
+            <property name="Item1" isnull="true" iskey="true" />
+            <property name="Item2" isnull="true" iskey="true" />
+            <property name="Item3" isnull="true" iskey="true" />
+            <property name="Item4" isnull="true" iskey="true" />
+          </property>
+          <property name="Elements" iskey="true" value="3">
+            <property name="Item1" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="Style">Item</property>
+              <property name="ControlFooterAlignment">Near</property>
+              <property name="VisibleInFooter">true</property>
+              <property name="HeaderIndent">-1</property>
+              <property name="HeaderVisible">true</property>
+              <property name="Expanded">false</property>
+              <property name="Visible">true</property>
+              <property name="Text">Clubs List</property>
+              <property name="Name">mnuClubs</property>
+              <property name="Height">0</property>
+              <property name="HeaderTemplate" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true" />
+                <property name="Item2" isnull="true" iskey="true" />
+                <property name="Item3" isnull="true" iskey="true" />
+                <property name="Item4" isnull="true" iskey="true" />
+              </property>
+              <property name="Elements" iskey="true" value="0" />
+            </property>
+            <property name="Item2" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="VisibleInFooter">true</property>
+              <property name="Visible">true</property>
+              <property name="Name">accordionControlSeparator3</property>
+              <property name="Height">0</property>
+              <property name="Elements" iskey="true" value="0" />
+            </property>
+            <property name="Item3" isnull="true" iskey="true">
+              <property name="#LayoutVersion" />
+              <property name="Style">Item</property>
+              <property name="ControlFooterAlignment">Near</property>
+              <property name="VisibleInFooter">true</property>
+              <property name="HeaderIndent">-1</property>
+              <property name="HeaderVisible">true</property>
+              <property name="Expanded">false</property>
+              <property name="Visible">true</property>
+              <property name="Text">Club Members</property>
+              <property name="Name">mnuMembersClub</property>
+              <property name="Height">0</property>
+              <property name="HeaderTemplate" iskey="true" value="4">
+                <property name="Item1" isnull="true" iskey="true" />
+                <property name="Item2" isnull="true" iskey="true" />
+                <property name="Item3" isnull="true" iskey="true" />
+                <property name="Item4" isnull="true" iskey="true" />
+              </property>
+              <property name="Elements" iskey="true" value="0" />
+            </property>
+          </property>
+        </property>
+      </property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="#LayoutVersion" />
+      <property name="Style">Group</property>
+      <property name="ControlFooterAlignment">Near</property>
+      <property name="VisibleInFooter">true</property>
+      <property name="HeaderIndent">-1</property>
+      <property name="HeaderVisible">true</property>
+      <property name="Expanded">true</property>
+      <property name="Visible">true</property>
+      <property name="Text">Setup</property>
+      <property name="Name">mnuSetup</property>
+      <property name="Height">0</property>
+      <property name="HeaderTemplate" iskey="true" value="4">
+        <property name="Item1" isnull="true" iskey="true" />
+        <property name="Item2" isnull="true" iskey="true" />
+        <property name="Item3" isnull="true" iskey="true" />
+        <property name="Item4" isnull="true" iskey="true" />
+      </property>
+      <property name="Elements" iskey="true" value="4">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="#LayoutVersion" />
+          <property name="Style">Group</property>
+          <property name="ControlFooterAlignment">Near</property>
+          <property name="VisibleInFooter">true</property>
+          <property name="HeaderIndent">-1</property>
+          <property name="HeaderVisible">true</property>
+          <property name="Expanded">true</property>
+          <property name="Visible">true</property>
+          <property name="Text">Users</property>
+          <property name="Name">mnuUsers</property>
+          <property name="Height">0</property>
+          <property name="HeaderTemplate" iskey="true" value="4">
+            <property name="Item1" isnull="true" iskey="true" />
+            <property name="Item2" isnull="true" iskey="true" />
+            <property name="Item3" isnull="true" iskey="true" />
+            <property name="Item4" isnull="true" iskey="true" />
+          </property>
+          <property name="Elements" iskey="true" value="0" />
+        </property>
+        <property name="Item2" isnull="true" iskey="true">
+          <property name="#LayoutVersion" />
+          <property name="Style">Item</property>
+          <property name="ControlFooterAlignment">Near</property>
+          <property name="VisibleInFooter">true</property>
+          <property name="HeaderIndent">-1</property>
+          <property name="HeaderVisible">true</property>
+          <property name="Expanded">false</property>
+          <property name="Visible">true</property>
+          <property name="Text">Users List</property>
+          <property name="Name">mnuUsersList</property>
+          <property name="Height">0</property>
+          <property name="HeaderTemplate" iskey="true" value="4">
+            <property name="Item1" isnull="true" iskey="true" />
+            <property name="Item2" isnull="true" iskey="true" />
+            <property name="Item3" isnull="true" iskey="true" />
+            <property name="Item4" isnull="true" iskey="true" />
+          </property>
+          <property name="Elements" iskey="true" value="0" />
+        </property>
+        <property name="Item3" isnull="true" iskey="true">
+          <property name="#LayoutVersion" />
+          <property name="Style">Item</property>
+          <property name="ControlFooterAlignment">Near</property>
+          <property name="VisibleInFooter">true</property>
+          <property name="HeaderIndent">-1</property>
+          <property name="HeaderVisible">true</property>
+          <property name="Expanded">false</property>
+          <property name="Visible">true</property>
+          <property name="Text">Computers</property>
+          <property name="Name">mnuComputers</property>
+          <property name="Height">0</property>
+          <property name="HeaderTemplate" iskey="true" value="4">
+            <property name="Item1" isnull="true" iskey="true" />
+            <property name="Item2" isnull="true" iskey="true" />
+            <property name="Item3" isnull="true" iskey="true" />
+            <property name="Item4" isnull="true" iskey="true" />
+          </property>
+          <property name="Elements" iskey="true" value="0" />
+        </property>
+        <property name="Item4" isnull="true" iskey="true">
+          <property name="#LayoutVersion" />
+          <property name="Style">Item</property>
+          <property name="ControlFooterAlignment">Far</property>
+          <property name="VisibleInFooter">true</property>
+          <property name="HeaderIndent">-1</property>
+          <property name="HeaderVisible">true</property>
+          <property name="Expanded">false</property>
+          <property name="Visible">true</property>
+          <property name="Text">Settings</property>
+          <property name="Name">mnuSettings</property>
+          <property name="Height">0</property>
+          <property name="HeaderTemplate" iskey="true" value="4">
+            <property name="Item1" isnull="true" iskey="true" />
+            <property name="Item2" isnull="true" iskey="true" />
+            <property name="Item3" isnull="true" iskey="true" />
+            <property name="Item4" isnull="true" iskey="true" />
+          </property>
+          <property name="Elements" iskey="true" value="0" />
+        </property>
+      </property>
+    </property>
+  </property>
+</XtraSerializer>
